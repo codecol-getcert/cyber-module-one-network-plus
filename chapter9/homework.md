@@ -1,13 +1,13 @@
 1 — Frame vs. packet	Paper, using the diagram at the top of the page
 -----------------------------------------------------------------------------------------------------------------------------------
 
-
+https://getcertified.co.za/course_companion_pages/cybersecurity-modules/module-1-networking/chapter9/field-guide.html#step1
 
 
 2 — Your routing table and ARP cache	Your own computer — Command Prompt (Windows) or Terminal (Mac/Linux). Not the Kasm workspace.
 -----------------------------------------------------------------------------------------------------------------------------------
 
-
+etc
 
 
 3 — Trace a real route	Your own computer, same window as Step 2
