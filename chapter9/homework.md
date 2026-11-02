@@ -4,7 +4,9 @@
 https://getcertified.co.za/course_companion_pages/cybersecurity-modules/module-1-networking/chapter9/field-guide.html#step1
 
 
-answer is here
+<img width="981" height="313" alt="image" src="https://github.com/user-attachments/assets/e539a0fa-7468-445c-ac3c-54cbdbd9af36" />
+
+
 
 
 2 — Your routing table and ARP cache	Your own computer — Command Prompt (Windows) or Terminal (Mac/Linux). Not the Kasm workspace.
